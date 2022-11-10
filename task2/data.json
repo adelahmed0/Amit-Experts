@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "image": "assets/images/car1.jpeg",
+    "name": "Car 1",
+    "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Reprehenderit",
+    "enabled":1
+  },
+  {
+    "id": 2,
+    "image": "assets/images/car2.jpeg",
+    "name": "Car 2",
+    "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Reprehenderit",
+    "enabled": 1
+  },
+  {
+    "id": 3,
+    "image": "assets/images/car3.jpeg",
+    "name": "Car 3",
+    "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Reprehenderit",
+    "enabled": 1
+  },
+  {
+    "id": 4,
+    "image": "assets/images/car4.jpeg",
+    "name": "Car 4",
+    "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Reprehenderit",
+    "enabled": 1
+  }
+]
